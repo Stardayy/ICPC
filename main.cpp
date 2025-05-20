@@ -23,6 +23,7 @@ void Solve()
     int b; cin >> b;
     cout << b;
     cout << a + b;
+    int c;
 }
 
 signed main()
