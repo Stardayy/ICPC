@@ -22,7 +22,7 @@ void Solve()
     cout << a;
     int b; cin >> b;
     cout << b;
-    
+    cout << a + b;
 }
 
 signed main()
