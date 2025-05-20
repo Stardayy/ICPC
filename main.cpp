@@ -18,7 +18,8 @@ const int MAXN = (int)1e5 + 5;
 
 void Solve()
 {
-
+    int a; cin >> a;
+    cout << a;
 }
 
 signed main()
