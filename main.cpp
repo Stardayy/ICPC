@@ -20,6 +20,9 @@ void Solve()
 {
     int a; cin >> a;
     cout << a;
+    int b; cin >> b;
+    cout << b;
+    
 }
 
 signed main()
